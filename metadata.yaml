@@ -1,0 +1,26 @@
+_repo: The-Life-of-Sir-Isaac-Newton_53311
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brewster, David
+    alias: Brewster, David, Sir
+    birthdate: 1781
+    deathdate: 1868
+    gutenberg_agent_id: '31721'
+    url: http://www.gutenberg.org/2009/agents/31721
+    wikipedia: https://en.wikipedia.org/wiki/David_Brewster
+description: ''
+gutenberg_issued: '2016-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53311'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QC'
+- !lcsh 'Newton, Isaac, Sir, 1642-1727'
+- GITenberg
+title: The Life of Sir Isaac Newton
+url: http://www.gutenberg.org/ebooks/53311
